@@ -1,0 +1,14 @@
+
+h2
+{
+    font-size: 25px;
+    color: yellowgreen;
+}
+ul
+{
+    list-style-type: disc;
+}
+ol
+{
+    list-style-type: upper-latin;
+}
