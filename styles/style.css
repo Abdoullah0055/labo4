@@ -1,15 +1,23 @@
-
-h2
-{
+h2 {
     font-size: 25px;
     color: yellowgreen;
     list-style: none;
 }
-ul
-{
+
+ul {
     list-style-type: disc;
 }
-ol
-{
+
+ol {
     list-style-type: upper-latin;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://clg.moodle.decclic.qc.ca/pluginfile.php/951745/mod_resource/content/1/cinema.jpg);
 }
